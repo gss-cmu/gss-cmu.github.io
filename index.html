@@ -1,0 +1,44 @@
+---
+layout: page
+---
+
+<div class="home">
+  <p>{{site.greeting}}</p>
+
+  <div class="wrapper">
+
+    <div class="contact">
+      <div class="body-col body-col-2">
+        <h1 class="page-heading">Address</h1>
+        <p>{{ site.address }}</p>
+        <p>Email: {{ site.email }}</p>
+      </div>
+
+    </div>
+
+  </div>
+
+  <h1> Upcoming Events</h1>
+  <ul class="post-list">
+    {% for post in site.categories.new %}
+      <li>
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+        <span class="post-meta">{{ post.author }}</span>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <h1> Past Events</h1>
+  <ul class="post-list">
+    {% for post in site.categories.past %}
+      <li>
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+        <span class="post-meta">{{ post.author }}</span>
+      </li>
+    {% endfor %}
+  </ul>
+</div>

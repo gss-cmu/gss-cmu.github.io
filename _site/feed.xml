@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CMU-SIAM</title>
+    <description></description>
+    <link>https://gss-cmu.github.io/</link>
+    <atom:link href="https://gss-cmu.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 29 Mar 2018 21:15:20 -0400</pubDate>
+    <lastBuildDate>Thu, 29 Mar 2018 21:15:20 -0400</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>First GSS Mini Conference</title>
+        <description>&lt;p&gt;This is a mini conference with the aim to increase communication of graduate students among different research groups.&lt;br /&gt;
+The events are held on April 10, 17, 24. The format of the talk is 20 minutes per speaker. Food will be provided.&lt;/p&gt;
+
+&lt;p&gt;Time: 5:30 pm
+Location: WEH 8220&lt;/p&gt;
+
+&lt;h2 id=&quot;schedule-so-far&quot;&gt;Schedule (so far)&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Dates&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Speakers&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;April 10&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Clive Newstead, Giovanni Gravina&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;April 17&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Andy Zucker, Michael Anastos, Yousuf Soliman&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;April 24&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Kevin Ou, Debsoumya Chakraborti, Antoine Remond-Tiedrez&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+</description>
+        <pubDate>Thu, 29 Mar 2018 00:00:00 -0400</pubDate>
+        <link>https://gss-cmu.github.io/new/2018/03/29/Spring-2018.html</link>
+        <guid isPermaLink="true">https://gss-cmu.github.io/new/2018/03/29/Spring-2018.html</guid>
+        
+        
+        <category>new</category>
+        
+      </item>
+    
+  </channel>
+</rss>
