@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CMU-SIAM</title>
+    <title>CMU Math GSS</title>
     <description></description>
     <link>https://gss-cmu.github.io/</link>
     <atom:link href="https://gss-cmu.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 29 Mar 2018 21:15:20 -0400</pubDate>
-    <lastBuildDate>Thu, 29 Mar 2018 21:15:20 -0400</lastBuildDate>
+    <pubDate>Thu, 29 Mar 2018 21:21:15 -0400</pubDate>
+    <lastBuildDate>Thu, 29 Mar 2018 21:21:15 -0400</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
