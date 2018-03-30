@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: CMU-SIAM
+title: CMU Math GSS 
 email: gss.math.cmu@gmail.com
 greeting: >
         This is the website of Carnegie Mellon University's Graduate Student Seminar. We use this to announce our major events.
